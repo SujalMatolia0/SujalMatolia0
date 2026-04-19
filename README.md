@@ -13,7 +13,7 @@
 Full Stack Engineer on the road to Systems Architecture.  
 Currently building enterprise IoT tools at **IOTX Technologies** — working with Oracle Fusion, Python backends, and things that need to actually work in production.
 
-3rd year CS student at ICFAI University, Jaipur. Solo builder. 216 commits and counting.
+Final year CS student at ICFAI University, Jaipur. Solo builder. 216 commits and counting.
 
 ---
 
